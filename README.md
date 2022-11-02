@@ -12,3 +12,9 @@
 
 5.Some ETH tokens - which we can get from the faucet
 
+------------------------------------------------------------------------------------------------------
+
+You can get test tokens from here
+
+1. [Goerli Faucet](https://goerlifaucet.com/?__cf_chl_tk=6JRwjYESmra9jHWz8M5VEFPNpYgPxGbn6Z3looTy0Vw-1667376082-0-gaNycGzNCz0)
+2. [Chainlink Faucet](https://faucets.chain.link/)
